@@ -1,40 +1,58 @@
-# EchoEats - Reducing Food Waste, Nourishing Communities
+# Biogas Data Collection Web Application
 
-## Introduction
+![Project Logo](logo.png) <!-- Add your project logo here -->
 
-Welcome to EchoEats! EchoEats is a web-based platform dedicated to combating food wastage and alleviating hunger in our communities. Our mission is to connect generous individuals, businesses, and events with those in need, creating a network of support that reduces food wastage while ensuring that nutritious meals reach those who require them most.
+## Overview
+
+The Biogas Data Collection Web Application is designed to crowdsource data from biogas digesters and securely store it for analysis. This application allows users to register, upload data, and input manual readings related to biogas usage. Super users can also manage data collection on behalf of other users.
+
+The project consists of two main components:
+1. Web2 (Current Version): The frontend and backend development for user registration, data collection, and manual input.
+2. Web3 (Future Version): The integration with Algorand blockchain for secure data storage using smart contracts.
 
 ## Features
 
-EchoEats is designed to be user-friendly and efficient, with the following key features:
+- **User Registration:** Users can register for biogas data collection accounts.
+- **Data Upload:** Users can capture images of analog meter readings and automatically record GPS coordinates.
+- **Manual Input:** Users can manually input biogas meter readings.
+- **Super User Functionality:** Super users can manage data collection on behalf of others and verify physical presence.
+- **Data Storage:** The server backend stores uploaded data.
+- **Security:** Daily digital signatures of data are generated and written to the Algorand blockchain to prevent data manipulation.
 
-- **Food Donation:** Users can easily donate surplus, high-quality food items from businesses, events, or their own households through our platform.
+## Getting Started
 
-- **Food Distribution:** We efficiently distribute donated food to individuals and communities facing food insecurity, ensuring it reaches those in need.
+These instructions will help you set up and run the Web2 version of the project on your local machine. The Web3 integration with Algorand blockchain will be developed separately.
 
-- **Educational Resources:** EchoEats conducts educational campaigns to raise awareness about responsible consumption and the environmental impact of food choices.
+### Prerequisites
 
-- **User-Friendly Interface:** Our platform is intuitive and user-friendly, making it easy for both donors and recipients to participate.
+- Node.js and npm installed (for running the frontend)
+- A backend server (e.g., Node.js, Python, etc.) for data storage
 
-- **Zero Hunger Goal:** EchoEats is committed to aligning with the United Nations' Sustainable Development Goal 2 (Zero Hunger) and Goal 12 (Responsible Consumption and Production), as we strive to minimize food wastage and combat hunger.
+### Installation
+
+Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/biogas-data-collection.git
+   cd biogas-data-collection
+   ```
 
 
-## Usage
+### Output
+![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/6c9b8290-9934-42a7-9b38-c991c398fe04)
 
-EchoEats is designed to be straightforward and accessible for all users. Whether you're a food donor or someone in need, our platform provides a seamless experience to connect those with surplus food to those who require it.
-![Front page](https://github.com/sritambiswal2003/EchoEats/assets/139357786/597452ed-b83f-4bb1-bd2d-2981c88b41cc)
-![front 2](https://github.com/sritambiswal2003/EchoEats/assets/139357786/8c683015-daa4-484a-824e-3790a5e915f0)
+![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/46ada844-94e1-407b-bb1c-f42eaf365093)
 
-The website provides features like donating food and receiving food.You can see them in the below images:
+![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/93b854a0-b3fa-4f37-83ec-1c8c4d8183ce)
 
-![Donate Us](https://github.com/sritambiswal2003/EchoEats/assets/139357786/f9bf3c2f-50ef-42ed-a65c-f939a63619a3)
-![Donate 2](https://github.com/sritambiswal2003/EchoEats/assets/139357786/ece9fec1-a1af-4893-a214-4d7c0c85917a)
-![Receive food](https://github.com/sritambiswal2003/EchoEats/assets/139357786/619f29ff-971a-4cc8-b885-e4d0d0f42445)
+![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/88f25261-c3bb-4113-9d47-5621f95d01de)
 
-You can contact us and know more about us from:
+![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/75b37c27-45c4-4754-969a-b5227c902413)
 
-![About Us](https://github.com/sritambiswal2003/EchoEats/assets/139357786/7e673646-7847-4aa0-8c67-5bdb45848f3c)
-![Contact Us](https://github.com/sritambiswal2003/EchoEats/assets/139357786/8b327421-1357-4f63-8946-2d7306886148)
+
+
+
+
 
 
 
