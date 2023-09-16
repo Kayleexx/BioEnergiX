@@ -1,6 +1,7 @@
 # Biogas Data Collection Web Application
 
-![Project Logo](logo.png) <!-- Add your project logo here -->
+![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/6b9c52e2-ac1b-4f55-9a68-a4eacfaca6af)
+
 
 ## Overview
 
