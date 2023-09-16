@@ -40,23 +40,5 @@ Clone the repository:
 
 
 ### Output
-![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/6c9b8290-9934-42a7-9b38-c991c398fe04)
 
-![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/46ada844-94e1-407b-bb1c-f42eaf365093)
-
-![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/93b854a0-b3fa-4f37-83ec-1c8c4d8183ce)
-
-![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/88f25261-c3bb-4113-9d47-5621f95d01de)
-
-![image](https://github.com/Kayleexx/BioEnergiX/assets/105365766/75b37c27-45c4-4754-969a-b5227c902413)
-
-
-
-
-
-
-
-
-
-
-
+https://bright-muffin-69041f.netlify.app/
