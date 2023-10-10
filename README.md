@@ -26,8 +26,8 @@ These instructions will help you set up and run the Web2 version of the project 
 
 ### Prerequisites
 
-- Node.js and npm installed (for running the frontend)
-- A backend server (e.g., Node.js, Python, etc.) for data storage
+- Node.js and npm installed (for running the frontend).
+- A backend server (e.g., Node.js, Python, etc.) for data storage.
 
 ### Installation
 
