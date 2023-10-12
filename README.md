@@ -22,7 +22,7 @@ The project consists of two main components:
 
 ## Getting Started
 
-These instructions will help you set up and run the Web2 version of the project on your local machine. The Web3 integration with Algorand blockchain will be developed separately.
+These instructions will help us set up and run the Web2 version of the project on your local machine. The Web3 integration with Algorand blockchain will be developed separately.
 
 ### Prerequisites
 
